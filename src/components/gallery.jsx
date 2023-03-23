@@ -8,8 +8,7 @@ export const Gallery = (props) => {
         <div className="section-title">
           <h2>Gallery</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          The meet the gallery section showcases images of the glassware products created by Stellaroc Glassware LLC in various settings, providing customers with a visual representation of the quality and design of their products.
           </p>
         </div>
         <div className="row">

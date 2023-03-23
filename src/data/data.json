@@ -1,158 +1,140 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "stellaroc glassware LLC.",
+    "paragraph": "Stellaroc Glassware LLC is a company that specializes in designing and manufacturing high-quality, durable glassware for commercial and residential use."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Stellaroc Glassware LLC is a premier glassware company that specializes in designing, manufacturing, and distributing high-quality glassware products for commercial and residential use. With a focus on providing functional and aesthetically pleasing glassware, Stellaroc Glassware LLC offers a wide range of products that meet the specific requirements and preferences of their customers. They also provide customization options to add unique designs, logos, or text to glassware products, making them ideal for promotional or special events. In addition, the company offers repair services and exceptional customer support to ensure their customers' satisfaction. By using specialized equipment and techniques, Stellaroc Glassware LLC produces glassware products that are durable, safe for use, and meet industry standards. With their commitment to quality and customer service, Stellaroc Glassware LLC has established a reputation as a leading glassware company in the industry.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Stellaroc Glassware LLC offers competitive pricing for their high-quality glassware products.",
+      "The company ensures timely delivery of their glassware products, handling them with care during transportation.",
+      "Stellaroc Glassware LLC has a team of knowledgeable and friendly professionals who can provide expert advice and recommendations to customers."
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Stellaroc Glassware LLC has a user-friendly website where customers can easily place orders and track their shipments.",
+      "The company provides a hassle-free return policy and accepts various payment methods."
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "GalssWare",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "GalssWare",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "GalssWare",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "GalssWare",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "GalssWare",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "GalssWare",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "GalssWare",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "GalssWare",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "GalssWare",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-magic",
+      "name": "Designing",
+      "text": "Designing glassware service creates functional and aesthetically pleasing glassware that meets customer requirements and preferences."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-rocket",
+      "name": "Manufacturing",
+      "text": "Manufacturing glassware involves using specialized equipment and techniques to produce high-quality glass products that are durable, safe for use, and meet industry standards."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-glass",
+      "name": "Distributing Glassware Products",
+      "text": "Distributing glassware products involves delivering the manufactured glassware products to wholesalers, retailers, or directly to customers, ensuring they are handled and transported with care to arrive in good condition."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-gavel",
+      "name": "Customization",
+      "text": "Customization glassware products allow customers to personalize their glassware items by adding unique designs, logos, or text, making them a great option for promotional or special events."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-wrench",
+      "name": "Repairing",
+      "text": "Repairing glassware products involves fixing cracks, chips, or other damages in the glassware to restore its functionality and appearance."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-user",
+      "name": "Customer Support",
+      "text": "Customer support service involves assisting customers with their inquiries, complaints, or issues related to glassware products, and providing them with helpful and timely solutions to ensure their satisfaction."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "I am extremely satisfied with the personalized glassware products I received from Stellaroc Glassware LLC for my company's promotional event. The quality of the products exceeded my expectations, and the design was exactly what I had envisioned.",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Stellaroc Glassware LLC's customer support team was incredibly helpful and responsive when I had questions about their products. They provided me with timely and accurate information, which made the ordering process very easy.",
       "name": "Johnathan Doe"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "The glassware products I purchased from Stellaroc Glassware LLC were not only functional but also aesthetically pleasing. They added an elegant touch to my restaurant's dining experience and were durable enough to withstand frequent use.",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Stellaroc Glassware LLC's repair service was top-notch. They fixed the crack in my favorite wine glass, and now it looks as good as new. I appreciate their attention to detail and commitment to customer satisfaction.",
       "name": "Johnathan Doe"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "I would highly recommend Stellaroc Glassware LLC to anyone looking for high-quality glassware products. Their pricing is competitive, their products are top-notch, and their customer service is exceptional.",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "I needed to order a large quantity of glassware products for my hotel, and Stellaroc Glassware LLC was able to accommodate my request with ease. Their products arrived on time and in excellent condition, and they even offered a bulk discount, which was much appreciated. I would definitely use their services again in the future.",
       "name": "Johnathan Doe"
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Chuang Li",
+      "job": "Founder"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
+    "address": " 1234 Street Name, City Name, United States",
     "phone": "+1 123 456 1234",
     "email": "info@company.com",
     "facebook": "fb.com",
@@ -162,23 +144,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Feature 1",
+      "text": "High-quality glassware products that are durable, safe for use, and meet industry standards."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Feature 2",
+      "text": "Customized glassware products that allow customers to personalize their glassware items by adding unique designs, logos, or text."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Feature 3",
+      "text": "Glassware products that are functional and aesthetically pleasing, meeting customer requirements and preferences."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Feature 4",
+      "text": "Glassware products that are delivered to customers in good condition, ensuring they are handled and transported with care."
     }
   ]
 }
